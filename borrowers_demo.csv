@@ -1,0 +1,6 @@
+Acct_ID,Sector,Zip_Code,Pay_Drift,ACH_Active,Balance,Last_Success_Time,Preferred_Channel
+1001,Tech,94025,8,No,12500,19:45,SMS
+1002,Healthcare,18330,0,Yes,8500,None,None
+1003,Self-Employed,60601,12,No,45000,09:15,Voice
+1004,Civil Servant,20001,2,Yes,1200,None,None
+1005,Tech,90210,15,No,32000,20:10,SMS
